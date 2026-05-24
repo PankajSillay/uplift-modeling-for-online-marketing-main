@@ -137,28 +137,6 @@ Each stage is trained **segment-wise** using K-Means clustering to capture behav
 
 ---
 
-## 📁 Repository Structure
-
-├── data/
-│ └── dataset.csv
-├── preprocessing/
-│ ├── eda.ipynb
-│ ├── feature_engineering.ipynb
-│ └── segmentation.ipynb
-├── uplift_models/
-│ ├── decision_tree.ipynb
-│ ├── random_forest.ipynb
-│ └── gradient_boosting.ipynb
-├── who_what_when/
-│ ├── who_model.ipynb
-│ ├── what_model.ipynb
-│ └── when_model.ipynb
-├── evaluation/
-│ └── uplift_metrics.ipynb
-└── README.md
-
----
-
 ## 🔮 Future Work
 
 - Individual-level uplift personalization
@@ -173,11 +151,8 @@ Each stage is trained **segment-wise** using K-Means clustering to capture behav
 
 - Dataset: Kaggle – Criteo Uplift Modeling Dataset
 - Code (Google Colab):
-  - https://colab.research.google.com/drive/17KBuVgDLQ0CxutFuo94JJVJE5ezIcFYa
-  - https://colab.research.google.com/drive/1lK9kTWXiyM-cOKknn_pGcssTNNLa98aw
-  - https://colab.research.google.com/drive/1-LpuVqeQET_nISs17DwPMg4HJ3PctwiF
+  - https://colab.research.google.com/drive/1-jOI906eD4otuOaz54wDiYgN_x_MWUQH
+  - https://colab.research.google.com/drive/1xQJZPZFujTXOohbNKG3g39TpbmKuA1Ed
+  - https://colab.research.google.com/drive/1XPlJ5cf7XEkxLTDnmcpt5v7bX4LvshD-
 
 ---
-
-## 📜 License
-This project is for academic and research purposes only.
